@@ -1,0 +1,43 @@
+body {
+	font-family: Verdana, sans-serif;
+}
+
+.TitleOrange{
+	color : #666;
+
+	}
+
+.TitleGoodWay{
+	color: #f07c17;
+
+}
+
+p {
+	line-height: 2em;
+}
+
+.TitleMain {
+	color:#D78730;
+}
+
+.TextMain {
+	color:#D3A447;
+}
+
+
+.MainC {
+	border-style: solid;
+	border-color: #ccc;
+	border-width: 1px;
+	position:fixed;
+
+}
+
+.mockup-overlay {
+	top: 0;
+	position: absolute;
+	z-index: -1;
+	opacity: 0.4;
+
+}
+
